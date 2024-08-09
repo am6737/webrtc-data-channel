@@ -13,7 +13,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/bigwhite/webrtc/signaling/proto"
+	"github.com/am6737/webrtc-data-channel/signaling/proto"
 	"github.com/gorilla/websocket"
 	"github.com/pion/webrtc/v4"
 )

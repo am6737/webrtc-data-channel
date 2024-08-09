@@ -7,7 +7,7 @@ import (
 	"os"
 	"sync"
 
-	"github.com/bigwhite/webrtc/signaling/proto"
+	"github.com/am6737/webrtc-data-channel/signaling/proto"
 	"github.com/gorilla/websocket"
 )
 
